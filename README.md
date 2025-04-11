@@ -1,5 +1,9 @@
 # thinkpad-t14-gen5-amd-impulses
 
+![screenshot from linux, easyeffect window](./Screenshot-2025-04-12.png)
+
+![Recording on windows 11 24h2](./20250412_014712.png.webp)
+
 ## KR
 
 Thinkpad T14 Gen5 (AMD) Dolby atomos impulse export from windows 11 24h2 for linux easyeffects.
